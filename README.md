@@ -2,7 +2,7 @@
 
 **1. Do not forget to use this line of code**
 ```
-go mod init <project_repository_url>
+go mod init <module_repository_url>
 ```
 Example:
 ```
