@@ -25,6 +25,7 @@ v1.0.1 # if it's minor upgrade
 v2.0.0 # if it's major upgrade
 ```
 ***And don't forget to update the modules name too***
+
 Example:
 ```
 module github.com/frosttkurr/go-say-hello/v2 # for version >= v2.0.0
