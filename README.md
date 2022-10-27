@@ -1,4 +1,4 @@
-# Learn how to make modules with different kind of version
+# Learn how to make modules
 
 **1. Do not forget to use this line of code**
 ```
